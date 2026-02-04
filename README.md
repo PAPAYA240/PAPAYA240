@@ -6,10 +6,7 @@
 
 # 이나영 (Lee-NaYoung)
 **"안 되는 이유보다 될 수 있는 방법을 찾는 개발자☺️"**
-<br>
-
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:lny011112@gmail.com)
+> [포트폴리오 보러가기 🚀](https://github.com/PAPAYA240/Portfolio)
 
 <br>
 
@@ -48,23 +45,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
----
-
-### 🚀 Key Projects
-
-| 프로젝트명 | 정보 | 링크 |
-| :--- | :--- | :---: |
-| **🎮 이터널리턴 : 코발트 프로토콜** | Unity Team Project | [보러가기](https://github.com/PAPAYA240/Unity_Project.git) |
-| **🎮 Undead Servivor** | Unity Private Project | [보러가기](https://github.com/PAPAYA240/UnityM2D.git) |
-| **🎮 Biohazard:Re2** | Dx11 Team Project | [보러가기](https://github.com/PAPAYA240/D3D11_Biohazard_Re-2.git) |
-| **🎮 Fallen Aces** | Dx9 Team Project | [보러가기](https://github.com/PAPAYA240/Fallen_Aces.git) |
-| **🎮 젤다의 전설 이상한 모자** | WinAPI/MFC Private Project | - |
-| **🎮 네모바지 스폰지밥** | Dx9 Private Project | - |
-
-
 
 <br>
 
